@@ -1,0 +1,842 @@
+[
+  {
+    "question_id": 28650,
+    "title": "Will the US Steel/Nippon Steel merger collapse before January 1, 2025?",
+    "resolution": "no",
+    "ground_truth": 0,
+    "individual_forecasts": {
+      "FERMI_METHOD": 0.6,
+      "NAIVE_DIALECTIC": 0.7,
+      "PROPOSE_EVALUATE_SELECT": 0.6,
+      "BAYESIAN_REASONING": 0.5,
+      "ANTI_BIAS": 0.3,
+      "TIPPING": 0.65,
+      "SIMULATED_DIALOGUE": 0.65,
+      "BACKWARD_REASONING": 0.6
+    },
+    "individual_brier_scores": {
+      "FERMI_METHOD": 0.36,
+      "NAIVE_DIALECTIC": 0.48999999999999994,
+      "PROPOSE_EVALUATE_SELECT": 0.36,
+      "BAYESIAN_REASONING": 0.25,
+      "ANTI_BIAS": 0.09,
+      "TIPPING": 0.42250000000000004,
+      "SIMULATED_DIALOGUE": 0.42250000000000004,
+      "BACKWARD_REASONING": 0.36
+    },
+    "ensemble_forecast": 0.575,
+    "ensemble_brier": 0.33062499999999995
+  },
+  {
+    "question_id": 28801,
+    "title": "Will Eric Adams be Mayor of New York City on the 1st of January 2025?",
+    "resolution": "yes",
+    "ground_truth": 1,
+    "individual_forecasts": {
+      "FERMI_METHOD": 0.75,
+      "NAIVE_DIALECTIC": 0.6,
+      "PROPOSE_EVALUATE_SELECT": 0.45,
+      "BAYESIAN_REASONING": 0.64,
+      "ANTI_BIAS": 0.4,
+      "TIPPING": 0.35,
+      "SIMULATED_DIALOGUE": 0.65,
+      "BACKWARD_REASONING": 0.4
+    },
+    "individual_brier_scores": {
+      "FERMI_METHOD": 0.0625,
+      "NAIVE_DIALECTIC": 0.16000000000000003,
+      "PROPOSE_EVALUATE_SELECT": 0.30250000000000005,
+      "BAYESIAN_REASONING": 0.1296,
+      "ANTI_BIAS": 0.36,
+      "TIPPING": 0.42250000000000004,
+      "SIMULATED_DIALOGUE": 0.12249999999999998,
+      "BACKWARD_REASONING": 0.36
+    },
+    "ensemble_forecast": 0.53,
+    "ensemble_brier": 0.22089999999999999
+  },
+  {
+    "question_id": 29742,
+    "title": "Will North Korea deploy military personnel to Ukraine before January 1, 2025?",
+    "resolution": "no",
+    "ground_truth": 0,
+    "individual_forecasts": {
+      "FERMI_METHOD": 0.12,
+      "NAIVE_DIALECTIC": 0.45,
+      "PROPOSE_EVALUATE_SELECT": 0.3,
+      "BAYESIAN_REASONING": 0.5,
+      "ANTI_BIAS": 0.2,
+      "TIPPING": 0.85,
+      "SIMULATED_DIALOGUE": 0.4,
+      "BACKWARD_REASONING": 0.4
+    },
+    "individual_brier_scores": {
+      "FERMI_METHOD": 0.0144,
+      "NAIVE_DIALECTIC": 0.2025,
+      "PROPOSE_EVALUATE_SELECT": 0.09,
+      "BAYESIAN_REASONING": 0.25,
+      "ANTI_BIAS": 0.04000000000000001,
+      "TIPPING": 0.7224999999999999,
+      "SIMULATED_DIALOGUE": 0.16000000000000003,
+      "BACKWARD_REASONING": 0.16000000000000003
+    },
+    "ensemble_forecast": 0.4025,
+    "ensemble_brier": 0.16200625000000002
+  },
+  {
+    "question_id": 30654,
+    "title": "Will Blue Origin launch its New Glenn rocket before January 1, 2025?",
+    "resolution": "no",
+    "ground_truth": 0,
+    "individual_forecasts": {
+      "FERMI_METHOD": 0.35,
+      "NAIVE_DIALECTIC": 0.55,
+      "PROPOSE_EVALUATE_SELECT": 0.5,
+      "BAYESIAN_REASONING": 0.34,
+      "ANTI_BIAS": 0.25,
+      "TIPPING": 0.35,
+      "SIMULATED_DIALOGUE": 0.4,
+      "BACKWARD_REASONING": 0.65
+    },
+    "individual_brier_scores": {
+      "FERMI_METHOD": 0.12249999999999998,
+      "NAIVE_DIALECTIC": 0.30250000000000005,
+      "PROPOSE_EVALUATE_SELECT": 0.25,
+      "BAYESIAN_REASONING": 0.11560000000000002,
+      "ANTI_BIAS": 0.0625,
+      "TIPPING": 0.12249999999999998,
+      "SIMULATED_DIALOGUE": 0.16000000000000003,
+      "BACKWARD_REASONING": 0.42250000000000004
+    },
+    "ensemble_forecast": 0.42375,
+    "ensemble_brier": 0.1795640625
+  },
+  {
+    "question_id": 28657,
+    "title": "Will China officially announce export restrictions on any additional metals before January 1, 2025?",
+    "resolution": "yes",
+    "ground_truth": 1,
+    "individual_forecasts": {
+      "FERMI_METHOD": 0.43,
+      "NAIVE_DIALECTIC": 0.6,
+      "PROPOSE_EVALUATE_SELECT": 0.55,
+      "BAYESIAN_REASONING": 0.64,
+      "ANTI_BIAS": 0.85,
+      "TIPPING": 0.65,
+      "SIMULATED_DIALOGUE": 0.65,
+      "BACKWARD_REASONING": 0.6
+    },
+    "individual_brier_scores": {
+      "FERMI_METHOD": 0.3249000000000001,
+      "NAIVE_DIALECTIC": 0.16000000000000003,
+      "PROPOSE_EVALUATE_SELECT": 0.20249999999999996,
+      "BAYESIAN_REASONING": 0.1296,
+      "ANTI_BIAS": 0.022500000000000006,
+      "TIPPING": 0.12249999999999998,
+      "SIMULATED_DIALOGUE": 0.12249999999999998,
+      "BACKWARD_REASONING": 0.16000000000000003
+    },
+    "ensemble_forecast": 0.62125,
+    "ensemble_brier": 0.14345156250000002
+  },
+  {
+    "question_id": 28658,
+    "title": "Will the Russian government officially ban YouTube before January 1, 2025?",
+    "resolution": "no",
+    "ground_truth": 0,
+    "individual_forecasts": {
+      "FERMI_METHOD": 0.4,
+      "NAIVE_DIALECTIC": 0.55,
+      "PROPOSE_EVALUATE_SELECT": 0.6,
+      "BAYESIAN_REASONING": 0.32,
+      "ANTI_BIAS": 0.77,
+      "TIPPING": 0.6,
+      "SIMULATED_DIALOGUE": 0.6,
+      "BACKWARD_REASONING": 0.6
+    },
+    "individual_brier_scores": {
+      "FERMI_METHOD": 0.16000000000000003,
+      "NAIVE_DIALECTIC": 0.30250000000000005,
+      "PROPOSE_EVALUATE_SELECT": 0.36,
+      "BAYESIAN_REASONING": 0.1024,
+      "ANTI_BIAS": 0.5929,
+      "TIPPING": 0.36,
+      "SIMULATED_DIALOGUE": 0.36,
+      "BACKWARD_REASONING": 0.36
+    },
+    "ensemble_forecast": 0.555,
+    "ensemble_brier": 0.30802500000000005
+  },
+  {
+    "question_id": 28704,
+    "title": "Will BirdCast report 1 billion birds flying over the United States at any point before January 1, 2025?",
+    "resolution": "no",
+    "ground_truth": 0,
+    "individual_forecasts": {
+      "FERMI_METHOD": 0.3,
+      "NAIVE_DIALECTIC": 0.6,
+      "PROPOSE_EVALUATE_SELECT": 0.55,
+      "BAYESIAN_REASONING": 0.25,
+      "ANTI_BIAS": 0.8,
+      "TIPPING": 0.6,
+      "SIMULATED_DIALOGUE": 0.4,
+      "BACKWARD_REASONING": 0.6
+    },
+    "individual_brier_scores": {
+      "FERMI_METHOD": 0.09,
+      "NAIVE_DIALECTIC": 0.36,
+      "PROPOSE_EVALUATE_SELECT": 0.30250000000000005,
+      "BAYESIAN_REASONING": 0.0625,
+      "ANTI_BIAS": 0.6400000000000001,
+      "TIPPING": 0.36,
+      "SIMULATED_DIALOGUE": 0.16000000000000003,
+      "BACKWARD_REASONING": 0.36
+    },
+    "ensemble_forecast": 0.5125,
+    "ensemble_brier": 0.26265625
+  },
+  {
+    "question_id": 28706,
+    "title": "Will OpenAI's o1 remain the top LLM in all categories of Chatbot Arena on December 30, 2024?",
+    "resolution": "yes",
+    "ground_truth": 1,
+    "individual_forecasts": {
+      "FERMI_METHOD": 0.1,
+      "NAIVE_DIALECTIC": 0.65,
+      "PROPOSE_EVALUATE_SELECT": 0.6,
+      "BAYESIAN_REASONING": 0.6,
+      "ANTI_BIAS": 0.5,
+      "TIPPING": 0.65,
+      "SIMULATED_DIALOGUE": 0.65,
+      "BACKWARD_REASONING": 0.7
+    },
+    "individual_brier_scores": {
+      "FERMI_METHOD": 0.81,
+      "NAIVE_DIALECTIC": 0.12249999999999998,
+      "PROPOSE_EVALUATE_SELECT": 0.16000000000000003,
+      "BAYESIAN_REASONING": 0.16000000000000003,
+      "ANTI_BIAS": 0.25,
+      "TIPPING": 0.12249999999999998,
+      "SIMULATED_DIALOGUE": 0.12249999999999998,
+      "BACKWARD_REASONING": 0.09000000000000002
+    },
+    "ensemble_forecast": 0.55625,
+    "ensemble_brier": 0.1969140625
+  },
+  {
+    "question_id": 28771,
+    "title": "Will there be a white Christmas in at least 4 of these 9 large European cities in 2024?",
+    "resolution": "no",
+    "ground_truth": 0,
+    "individual_forecasts": {
+      "FERMI_METHOD": 0.2,
+      "NAIVE_DIALECTIC": 0.3,
+      "PROPOSE_EVALUATE_SELECT": 0.3,
+      "BAYESIAN_REASONING": 0.18,
+      "ANTI_BIAS": 0.3,
+      "TIPPING": 0.35,
+      "SIMULATED_DIALOGUE": 0.35,
+      "BACKWARD_REASONING": 0.4
+    },
+    "individual_brier_scores": {
+      "FERMI_METHOD": 0.04000000000000001,
+      "NAIVE_DIALECTIC": 0.09,
+      "PROPOSE_EVALUATE_SELECT": 0.09,
+      "BAYESIAN_REASONING": 0.0324,
+      "ANTI_BIAS": 0.09,
+      "TIPPING": 0.12249999999999998,
+      "SIMULATED_DIALOGUE": 0.12249999999999998,
+      "BACKWARD_REASONING": 0.16000000000000003
+    },
+    "ensemble_forecast": 0.2975,
+    "ensemble_brier": 0.08850625
+  },
+  {
+    "question_id": 28798,
+    "title": "Will the 2024 World Chess Champion be decided in the first 10 games?",
+    "resolution": "no",
+    "ground_truth": 0,
+    "individual_forecasts": {
+      "FERMI_METHOD": 0.1,
+      "NAIVE_DIALECTIC": 0.25,
+      "PROPOSE_EVALUATE_SELECT": 0.15,
+      "BAYESIAN_REASONING": 0.1,
+      "ANTI_BIAS": 0.02,
+      "TIPPING": 0.25,
+      "SIMULATED_DIALOGUE": 0.25,
+      "BACKWARD_REASONING": 0.2
+    },
+    "individual_brier_scores": {
+      "FERMI_METHOD": 0.010000000000000002,
+      "NAIVE_DIALECTIC": 0.0625,
+      "PROPOSE_EVALUATE_SELECT": 0.0225,
+      "BAYESIAN_REASONING": 0.010000000000000002,
+      "ANTI_BIAS": 0.0004,
+      "TIPPING": 0.0625,
+      "SIMULATED_DIALOGUE": 0.0625,
+      "BACKWARD_REASONING": 0.04000000000000001
+    },
+    "ensemble_forecast": 0.16499999999999998,
+    "ensemble_brier": 0.027224999999999992
+  },
+  {
+    "question_id": 28808,
+    "title": "[Short fuse] Will there be a majority of \"Yes\" votes in the Moldovan European Union membership referendum?",
+    "resolution": "yes",
+    "ground_truth": 1,
+    "individual_forecasts": {
+      "FERMI_METHOD": 0.65,
+      "NAIVE_DIALECTIC": 0.6,
+      "PROPOSE_EVALUATE_SELECT": 0.65,
+      "BAYESIAN_REASONING": 0.51,
+      "ANTI_BIAS": 0.75,
+      "TIPPING": 0.65,
+      "SIMULATED_DIALOGUE": 0.65,
+      "BACKWARD_REASONING": 0.65
+    },
+    "individual_brier_scores": {
+      "FERMI_METHOD": 0.12249999999999998,
+      "NAIVE_DIALECTIC": 0.16000000000000003,
+      "PROPOSE_EVALUATE_SELECT": 0.12249999999999998,
+      "BAYESIAN_REASONING": 0.24009999999999998,
+      "ANTI_BIAS": 0.0625,
+      "TIPPING": 0.12249999999999998,
+      "SIMULATED_DIALOGUE": 0.12249999999999998,
+      "BACKWARD_REASONING": 0.12249999999999998
+    },
+    "ensemble_forecast": 0.63875,
+    "ensemble_brier": 0.13050156249999997
+  },
+  {
+    "question_id": 28811,
+    "title": "Will any more United Kingdom MPs be suspended from their party, resign, or change allegiance before 2025?",
+    "resolution": "yes",
+    "ground_truth": 1,
+    "individual_forecasts": {
+      "FERMI_METHOD": 0.5,
+      "NAIVE_DIALECTIC": 0.7,
+      "PROPOSE_EVALUATE_SELECT": 0.65,
+      "BAYESIAN_REASONING": 0.64,
+      "ANTI_BIAS": 0.15,
+      "TIPPING": 0.85,
+      "SIMULATED_DIALOGUE": 0.65,
+      "BACKWARD_REASONING": 0.75
+    },
+    "individual_brier_scores": {
+      "FERMI_METHOD": 0.25,
+      "NAIVE_DIALECTIC": 0.09000000000000002,
+      "PROPOSE_EVALUATE_SELECT": 0.12249999999999998,
+      "BAYESIAN_REASONING": 0.1296,
+      "ANTI_BIAS": 0.7224999999999999,
+      "TIPPING": 0.022500000000000006,
+      "SIMULATED_DIALOGUE": 0.12249999999999998,
+      "BACKWARD_REASONING": 0.0625
+    },
+    "ensemble_forecast": 0.6112500000000001,
+    "ensemble_brier": 0.15112656249999995
+  },
+  {
+    "question_id": 28812,
+    "title": "Will Erik Ten Hag stop being Manchester United's manager before 2025?",
+    "resolution": "yes",
+    "ground_truth": 1,
+    "individual_forecasts": {
+      "FERMI_METHOD": 0.55,
+      "NAIVE_DIALECTIC": 0.6,
+      "PROPOSE_EVALUATE_SELECT": 0.55,
+      "BAYESIAN_REASONING": 0.36,
+      "ANTI_BIAS": 0.7,
+      "TIPPING": 0.65,
+      "SIMULATED_DIALOGUE": 0.6,
+      "BACKWARD_REASONING": 0.6
+    },
+    "individual_brier_scores": {
+      "FERMI_METHOD": 0.20249999999999996,
+      "NAIVE_DIALECTIC": 0.16000000000000003,
+      "PROPOSE_EVALUATE_SELECT": 0.20249999999999996,
+      "BAYESIAN_REASONING": 0.4096,
+      "ANTI_BIAS": 0.09000000000000002,
+      "TIPPING": 0.12249999999999998,
+      "SIMULATED_DIALOGUE": 0.16000000000000003,
+      "BACKWARD_REASONING": 0.16000000000000003
+    },
+    "ensemble_forecast": 0.5762499999999999,
+    "ensemble_brier": 0.17956406250000007
+  },
+  {
+    "question_id": 28855,
+    "title": "Will North Korea perform its seventh nuclear test before 2025?",
+    "resolution": "no",
+    "ground_truth": 0,
+    "individual_forecasts": {
+      "FERMI_METHOD": 0.43,
+      "NAIVE_DIALECTIC": 0.6,
+      "PROPOSE_EVALUATE_SELECT": 0.55,
+      "BAYESIAN_REASONING": 0.67,
+      "ANTI_BIAS": 0.53,
+      "TIPPING": 0.65,
+      "SIMULATED_DIALOGUE": 0.65,
+      "BACKWARD_REASONING": 0.6
+    },
+    "individual_brier_scores": {
+      "FERMI_METHOD": 0.18489999999999998,
+      "NAIVE_DIALECTIC": 0.36,
+      "PROPOSE_EVALUATE_SELECT": 0.30250000000000005,
+      "BAYESIAN_REASONING": 0.4489000000000001,
+      "ANTI_BIAS": 0.28090000000000004,
+      "TIPPING": 0.42250000000000004,
+      "SIMULATED_DIALOGUE": 0.42250000000000004,
+      "BACKWARD_REASONING": 0.36
+    },
+    "ensemble_forecast": 0.585,
+    "ensemble_brier": 0.34222499999999995
+  },
+  {
+    "question_id": 29145,
+    "title": "[Short fuse] Will California's Proposition 33 (allowing rent control) pass in the 2024 general election?",
+    "resolution": "no",
+    "ground_truth": 0,
+    "individual_forecasts": {
+      "FERMI_METHOD": 0.45,
+      "NAIVE_DIALECTIC": 0.45,
+      "PROPOSE_EVALUATE_SELECT": 0.38,
+      "BAYESIAN_REASONING": 0.39,
+      "ANTI_BIAS": 0.36,
+      "TIPPING": 0.45,
+      "SIMULATED_DIALOGUE": 0.45,
+      "BACKWARD_REASONING": 0.45
+    },
+    "individual_brier_scores": {
+      "FERMI_METHOD": 0.2025,
+      "NAIVE_DIALECTIC": 0.2025,
+      "PROPOSE_EVALUATE_SELECT": 0.1444,
+      "BAYESIAN_REASONING": 0.1521,
+      "ANTI_BIAS": 0.1296,
+      "TIPPING": 0.2025,
+      "SIMULATED_DIALOGUE": 0.2025,
+      "BACKWARD_REASONING": 0.2025
+    },
+    "ensemble_forecast": 0.4225,
+    "ensemble_brier": 0.17850624999999998
+  },
+  {
+    "question_id": 29400,
+    "title": "Will both Xi Jinping and Vladimir Putin congratulate the winner of the 2024 U.S. Presidential Election before December 1, 2024?",
+    "resolution": "yes",
+    "ground_truth": 1,
+    "individual_forecasts": {
+      "FERMI_METHOD": 0.7,
+      "NAIVE_DIALECTIC": 0.65,
+      "PROPOSE_EVALUATE_SELECT": 0.55,
+      "BAYESIAN_REASONING": 0.63,
+      "ANTI_BIAS": 0.95,
+      "TIPPING": 0.75,
+      "SIMULATED_DIALOGUE": 0.65,
+      "BACKWARD_REASONING": 0.6
+    },
+    "individual_brier_scores": {
+      "FERMI_METHOD": 0.09000000000000002,
+      "NAIVE_DIALECTIC": 0.12249999999999998,
+      "PROPOSE_EVALUATE_SELECT": 0.20249999999999996,
+      "BAYESIAN_REASONING": 0.1369,
+      "ANTI_BIAS": 0.0025000000000000044,
+      "TIPPING": 0.0625,
+      "SIMULATED_DIALOGUE": 0.12249999999999998,
+      "BACKWARD_REASONING": 0.16000000000000003
+    },
+    "ensemble_forecast": 0.685,
+    "ensemble_brier": 0.09922499999999997
+  },
+  {
+    "question_id": 29741,
+    "title": "Will Bitcoin dominance exceed 63.0% on any single day in November or December 2024?",
+    "resolution": "no",
+    "ground_truth": 0,
+    "individual_forecasts": {
+      "FERMI_METHOD": 0.45,
+      "NAIVE_DIALECTIC": 0.45,
+      "PROPOSE_EVALUATE_SELECT": 0.2,
+      "BAYESIAN_REASONING": 0.25,
+      "ANTI_BIAS": 0.14,
+      "TIPPING": 0.35,
+      "SIMULATED_DIALOGUE": 0.35,
+      "BACKWARD_REASONING": 0.7
+    },
+    "individual_brier_scores": {
+      "FERMI_METHOD": 0.2025,
+      "NAIVE_DIALECTIC": 0.2025,
+      "PROPOSE_EVALUATE_SELECT": 0.04000000000000001,
+      "BAYESIAN_REASONING": 0.0625,
+      "ANTI_BIAS": 0.019600000000000003,
+      "TIPPING": 0.12249999999999998,
+      "SIMULATED_DIALOGUE": 0.12249999999999998,
+      "BACKWARD_REASONING": 0.48999999999999994
+    },
+    "ensemble_forecast": 0.36124999999999996,
+    "ensemble_brier": 0.13050156249999997
+  },
+  {
+    "question_id": 29743,
+    "title": "Will Astro Bot win the Game of the Year 2024 award?",
+    "resolution": "yes",
+    "ground_truth": 1,
+    "individual_forecasts": {
+      "FERMI_METHOD": 0.25,
+      "NAIVE_DIALECTIC": 0.6,
+      "PROPOSE_EVALUATE_SELECT": 0.3,
+      "BAYESIAN_REASONING": 0.39,
+      "ANTI_BIAS": 0.27,
+      "TIPPING": 0.45,
+      "SIMULATED_DIALOGUE": 0.45,
+      "BACKWARD_REASONING": 0.65
+    },
+    "individual_brier_scores": {
+      "FERMI_METHOD": 0.5625,
+      "NAIVE_DIALECTIC": 0.16000000000000003,
+      "PROPOSE_EVALUATE_SELECT": 0.48999999999999994,
+      "BAYESIAN_REASONING": 0.3721,
+      "ANTI_BIAS": 0.5328999999999999,
+      "TIPPING": 0.30250000000000005,
+      "SIMULATED_DIALOGUE": 0.30250000000000005,
+      "BACKWARD_REASONING": 0.12249999999999998
+    },
+    "ensemble_forecast": 0.42000000000000004,
+    "ensemble_brier": 0.3364
+  },
+  {
+    "question_id": 29744,
+    "title": "Will the International Criminal Court issue any warrants in November or December 2024?",
+    "resolution": "yes",
+    "ground_truth": 1,
+    "individual_forecasts": {
+      "FERMI_METHOD": 0.15,
+      "NAIVE_DIALECTIC": 0.6,
+      "PROPOSE_EVALUATE_SELECT": 0.25,
+      "BAYESIAN_REASONING": 0.15,
+      "ANTI_BIAS": 0.26,
+      "TIPPING": 0.3,
+      "SIMULATED_DIALOGUE": 0.55,
+      "BACKWARD_REASONING": 0.4
+    },
+    "individual_brier_scores": {
+      "FERMI_METHOD": 0.7224999999999999,
+      "NAIVE_DIALECTIC": 0.16000000000000003,
+      "PROPOSE_EVALUATE_SELECT": 0.5625,
+      "BAYESIAN_REASONING": 0.7224999999999999,
+      "ANTI_BIAS": 0.5476,
+      "TIPPING": 0.48999999999999994,
+      "SIMULATED_DIALOGUE": 0.20249999999999996,
+      "BACKWARD_REASONING": 0.36
+    },
+    "ensemble_forecast": 0.3325,
+    "ensemble_brier": 0.44555625
+  },
+  {
+    "question_id": 30012,
+    "title": "Will the domestic opening weekend box office revenue of Mufasa: The Lion King exceed that of Sonic the Hedgehog 3?",
+    "resolution": "no",
+    "ground_truth": 0,
+    "individual_forecasts": {
+      "FERMI_METHOD": 0.65,
+      "NAIVE_DIALECTIC": 0.6,
+      "PROPOSE_EVALUATE_SELECT": 0.6,
+      "BAYESIAN_REASONING": 0.75,
+      "ANTI_BIAS": 0.85,
+      "TIPPING": 0.6,
+      "SIMULATED_DIALOGUE": 0.6,
+      "BACKWARD_REASONING": 0.65
+    },
+    "individual_brier_scores": {
+      "FERMI_METHOD": 0.42250000000000004,
+      "NAIVE_DIALECTIC": 0.36,
+      "PROPOSE_EVALUATE_SELECT": 0.36,
+      "BAYESIAN_REASONING": 0.5625,
+      "ANTI_BIAS": 0.7224999999999999,
+      "TIPPING": 0.36,
+      "SIMULATED_DIALOGUE": 0.36,
+      "BACKWARD_REASONING": 0.42250000000000004
+    },
+    "ensemble_forecast": 0.6625000000000001,
+    "ensemble_brier": 0.4389062500000001
+  },
+  {
+    "question_id": 30060,
+    "title": "Will at least one of Andrea Bocelli's concerts at Madison Square Garden on December 18 or 19, 2024 sell out?",
+    "resolution": "no",
+    "ground_truth": 0,
+    "individual_forecasts": {
+      "FERMI_METHOD": 0.75,
+      "NAIVE_DIALECTIC": 0.75,
+      "PROPOSE_EVALUATE_SELECT": 0.8,
+      "BAYESIAN_REASONING": 0.75,
+      "ANTI_BIAS": 0.85,
+      "TIPPING": 0.85,
+      "SIMULATED_DIALOGUE": 0.75,
+      "BACKWARD_REASONING": 0.85
+    },
+    "individual_brier_scores": {
+      "FERMI_METHOD": 0.5625,
+      "NAIVE_DIALECTIC": 0.5625,
+      "PROPOSE_EVALUATE_SELECT": 0.6400000000000001,
+      "BAYESIAN_REASONING": 0.5625,
+      "ANTI_BIAS": 0.7224999999999999,
+      "TIPPING": 0.7224999999999999,
+      "SIMULATED_DIALOGUE": 0.5625,
+      "BACKWARD_REASONING": 0.7224999999999999
+    },
+    "ensemble_forecast": 0.79375,
+    "ensemble_brier": 0.6300390625
+  },
+  {
+    "question_id": 30100,
+    "title": "Will Bluesky reach 30 million users before 1 January 2025?",
+    "resolution": "no",
+    "ground_truth": 0,
+    "individual_forecasts": {
+      "FERMI_METHOD": 0.7,
+      "NAIVE_DIALECTIC": 0.7,
+      "PROPOSE_EVALUATE_SELECT": 0.75,
+      "BAYESIAN_REASONING": 0.5,
+      "ANTI_BIAS": 0.65,
+      "TIPPING": 0.85,
+      "SIMULATED_DIALOGUE": 0.65,
+      "BACKWARD_REASONING": 0.7
+    },
+    "individual_brier_scores": {
+      "FERMI_METHOD": 0.48999999999999994,
+      "NAIVE_DIALECTIC": 0.48999999999999994,
+      "PROPOSE_EVALUATE_SELECT": 0.5625,
+      "BAYESIAN_REASONING": 0.25,
+      "ANTI_BIAS": 0.42250000000000004,
+      "TIPPING": 0.7224999999999999,
+      "SIMULATED_DIALOGUE": 0.42250000000000004,
+      "BACKWARD_REASONING": 0.48999999999999994
+    },
+    "ensemble_forecast": 0.6875,
+    "ensemble_brier": 0.47265625
+  },
+  {
+    "question_id": 30101,
+    "title": "Will Nvidia have the largest market cap in the world at the end of 2024?",
+    "resolution": "no",
+    "ground_truth": 0,
+    "individual_forecasts": {
+      "FERMI_METHOD": 0.25,
+      "NAIVE_DIALECTIC": 0.55,
+      "PROPOSE_EVALUATE_SELECT": 0.25,
+      "BAYESIAN_REASONING": 0.14,
+      "ANTI_BIAS": 0.1,
+      "TIPPING": 0.3,
+      "SIMULATED_DIALOGUE": 0.4,
+      "BACKWARD_REASONING": 0.6
+    },
+    "individual_brier_scores": {
+      "FERMI_METHOD": 0.0625,
+      "NAIVE_DIALECTIC": 0.30250000000000005,
+      "PROPOSE_EVALUATE_SELECT": 0.0625,
+      "BAYESIAN_REASONING": 0.019600000000000003,
+      "ANTI_BIAS": 0.010000000000000002,
+      "TIPPING": 0.09,
+      "SIMULATED_DIALOGUE": 0.16000000000000003,
+      "BACKWARD_REASONING": 0.36
+    },
+    "ensemble_forecast": 0.32375,
+    "ensemble_brier": 0.10481406249999999
+  },
+  {
+    "question_id": 30269,
+    "title": "Will a ceasefire between Israel and Lebanon/Hezbollah be active on January 1, 2025?",
+    "resolution": "yes",
+    "ground_truth": 1,
+    "individual_forecasts": {
+      "FERMI_METHOD": 0.05,
+      "NAIVE_DIALECTIC": 0.45,
+      "PROPOSE_EVALUATE_SELECT": 0.35,
+      "BAYESIAN_REASONING": 0.45,
+      "ANTI_BIAS": 0.45,
+      "TIPPING": 0.4,
+      "SIMULATED_DIALOGUE": 0.4,
+      "BACKWARD_REASONING": 0.55
+    },
+    "individual_brier_scores": {
+      "FERMI_METHOD": 0.9025,
+      "NAIVE_DIALECTIC": 0.30250000000000005,
+      "PROPOSE_EVALUATE_SELECT": 0.42250000000000004,
+      "BAYESIAN_REASONING": 0.30250000000000005,
+      "ANTI_BIAS": 0.30250000000000005,
+      "TIPPING": 0.36,
+      "SIMULATED_DIALOGUE": 0.36,
+      "BACKWARD_REASONING": 0.20249999999999996
+    },
+    "ensemble_forecast": 0.38750000000000007,
+    "ensemble_brier": 0.3751562499999999
+  },
+  {
+    "question_id": 30300,
+    "title": "Will any more of Trump's announced Cabinet picks drop out before January 1, 2025?",
+    "resolution": "no",
+    "ground_truth": 0,
+    "individual_forecasts": {
+      "FERMI_METHOD": 0.31,
+      "NAIVE_DIALECTIC": 0.65,
+      "PROPOSE_EVALUATE_SELECT": 0.55,
+      "BAYESIAN_REASONING": 0.45,
+      "ANTI_BIAS": 0.18,
+      "TIPPING": 0.65,
+      "SIMULATED_DIALOGUE": 0.4,
+      "BACKWARD_REASONING": 0.6
+    },
+    "individual_brier_scores": {
+      "FERMI_METHOD": 0.0961,
+      "NAIVE_DIALECTIC": 0.42250000000000004,
+      "PROPOSE_EVALUATE_SELECT": 0.30250000000000005,
+      "BAYESIAN_REASONING": 0.2025,
+      "ANTI_BIAS": 0.0324,
+      "TIPPING": 0.42250000000000004,
+      "SIMULATED_DIALOGUE": 0.16000000000000003,
+      "BACKWARD_REASONING": 0.36
+    },
+    "ensemble_forecast": 0.47375,
+    "ensemble_brier": 0.2244390625
+  },
+  {
+    "question_id": 30301,
+    "title": "Will New Delhi experience a \"Hazardous\" air quality index for at least one third of the last two weeks of December 2024?",
+    "resolution": "yes",
+    "ground_truth": 1,
+    "individual_forecasts": {
+      "FERMI_METHOD": 0.55,
+      "NAIVE_DIALECTIC": 0.6,
+      "PROPOSE_EVALUATE_SELECT": 0.7,
+      "BAYESIAN_REASONING": 0.4,
+      "ANTI_BIAS": 0.23,
+      "TIPPING": 0.7,
+      "SIMULATED_DIALOGUE": 0.65,
+      "BACKWARD_REASONING": 0.6
+    },
+    "individual_brier_scores": {
+      "FERMI_METHOD": 0.20249999999999996,
+      "NAIVE_DIALECTIC": 0.16000000000000003,
+      "PROPOSE_EVALUATE_SELECT": 0.09000000000000002,
+      "BAYESIAN_REASONING": 0.36,
+      "ANTI_BIAS": 0.5929,
+      "TIPPING": 0.09000000000000002,
+      "SIMULATED_DIALOGUE": 0.12249999999999998,
+      "BACKWARD_REASONING": 0.16000000000000003
+    },
+    "ensemble_forecast": 0.55375,
+    "ensemble_brier": 0.19913906250000002
+  },
+  {
+    "question_id": 30457,
+    "title": "Will former First Lady of Pakistan Bushra Bibi be arrested before January 1, 2025?",
+    "resolution": "no",
+    "ground_truth": 0,
+    "individual_forecasts": {
+      "FERMI_METHOD": 0.6,
+      "NAIVE_DIALECTIC": 0.65,
+      "PROPOSE_EVALUATE_SELECT": 0.65,
+      "BAYESIAN_REASONING": 0.42,
+      "ANTI_BIAS": 0.3,
+      "TIPPING": 0.75,
+      "SIMULATED_DIALOGUE": 0.65,
+      "BACKWARD_REASONING": 0.6
+    },
+    "individual_brier_scores": {
+      "FERMI_METHOD": 0.36,
+      "NAIVE_DIALECTIC": 0.42250000000000004,
+      "PROPOSE_EVALUATE_SELECT": 0.42250000000000004,
+      "BAYESIAN_REASONING": 0.17639999999999997,
+      "ANTI_BIAS": 0.09,
+      "TIPPING": 0.5625,
+      "SIMULATED_DIALOGUE": 0.42250000000000004,
+      "BACKWARD_REASONING": 0.36
+    },
+    "ensemble_forecast": 0.5775,
+    "ensemble_brier": 0.33350625
+  },
+  {
+    "question_id": 30478,
+    "title": "Will Yoon Suk Yeol be President of South Korea on December 31, 2024?",
+    "resolution": "yes",
+    "ground_truth": 1,
+    "individual_forecasts": {
+      "FERMI_METHOD": 0.75,
+      "NAIVE_DIALECTIC": 0.45,
+      "PROPOSE_EVALUATE_SELECT": 0.6,
+      "BAYESIAN_REASONING": 0.6,
+      "ANTI_BIAS": 0.66,
+      "TIPPING": 0.4,
+      "SIMULATED_DIALOGUE": 0.4,
+      "BACKWARD_REASONING": 0.4
+    },
+    "individual_brier_scores": {
+      "FERMI_METHOD": 0.0625,
+      "NAIVE_DIALECTIC": 0.30250000000000005,
+      "PROPOSE_EVALUATE_SELECT": 0.16000000000000003,
+      "BAYESIAN_REASONING": 0.16000000000000003,
+      "ANTI_BIAS": 0.11559999999999998,
+      "TIPPING": 0.36,
+      "SIMULATED_DIALOGUE": 0.36,
+      "BACKWARD_REASONING": 0.36
+    },
+    "ensemble_forecast": 0.5325,
+    "ensemble_brier": 0.21855625000000004
+  },
+  {
+    "question_id": 30607,
+    "title": "Will the undiagnosed disease currently spreading in the Democratic Republic of the Congo be identified as Influenza, RSV, or COVID-19 before January 7, 2025?",
+    "resolution": "no",
+    "ground_truth": 0,
+    "individual_forecasts": {
+      "FERMI_METHOD": 0.35,
+      "NAIVE_DIALECTIC": 0.4,
+      "PROPOSE_EVALUATE_SELECT": 0.35,
+      "BAYESIAN_REASONING": 0.18,
+      "ANTI_BIAS": 0.25,
+      "TIPPING": 0.4,
+      "SIMULATED_DIALOGUE": 0.6,
+      "BACKWARD_REASONING": 0.6
+    },
+    "individual_brier_scores": {
+      "FERMI_METHOD": 0.12249999999999998,
+      "NAIVE_DIALECTIC": 0.16000000000000003,
+      "PROPOSE_EVALUATE_SELECT": 0.12249999999999998,
+      "BAYESIAN_REASONING": 0.0324,
+      "ANTI_BIAS": 0.0625,
+      "TIPPING": 0.16000000000000003,
+      "SIMULATED_DIALOGUE": 0.36,
+      "BACKWARD_REASONING": 0.36
+    },
+    "ensemble_forecast": 0.39125,
+    "ensemble_brier": 0.15307656249999999
+  },
+  {
+    "question_id": 30735,
+    "title": "Will the majority of Russian soldiers in Syria withdraw before January 5, 2025?",
+    "resolution": "no",
+    "ground_truth": 0,
+    "individual_forecasts": {
+      "FERMI_METHOD": 0.6,
+      "NAIVE_DIALECTIC": 0.4,
+      "PROPOSE_EVALUATE_SELECT": 0.25,
+      "BAYESIAN_REASONING": 0.55,
+      "ANTI_BIAS": 0.55,
+      "TIPPING": 0.65,
+      "SIMULATED_DIALOGUE": 0.4,
+      "BACKWARD_REASONING": 0.6
+    },
+    "individual_brier_scores": {
+      "FERMI_METHOD": 0.36,
+      "NAIVE_DIALECTIC": 0.16000000000000003,
+      "PROPOSE_EVALUATE_SELECT": 0.0625,
+      "BAYESIAN_REASONING": 0.30250000000000005,
+      "ANTI_BIAS": 0.30250000000000005,
+      "TIPPING": 0.42250000000000004,
+      "SIMULATED_DIALOGUE": 0.16000000000000003,
+      "BACKWARD_REASONING": 0.36
+    },
+    "ensemble_forecast": 0.5,
+    "ensemble_brier": 0.25
+  }
+]

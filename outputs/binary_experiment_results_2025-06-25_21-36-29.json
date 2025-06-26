@@ -1,0 +1,482 @@
+[
+  {
+    "question_id": 37760,
+    "title": "Will Andrew Cuomo win the 2025 Democratic primary for New York City mayor?",
+    "resolution": "no",
+    "ground_truth": 0,
+    "individual_forecasts": {
+      "FERMI_METHOD": 0.08,
+      "NAIVE_DIALECTIC": 0.12,
+      "PROPOSE_EVALUATE_SELECT": 0.3,
+      "BAYESIAN_REASONING": 0.14,
+      "ANTI_BIAS": 0.18,
+      "TIPPING": 0.11,
+      "SIMULATED_DIALOGUE": 0.45,
+      "BACKWARD_REASONING": 0.25,
+      "METACULUS_BINARY": 0.11
+    },
+    "individual_brier_scores": {
+      "FERMI_METHOD": 0.0064,
+      "NAIVE_DIALECTIC": 0.0144,
+      "PROPOSE_EVALUATE_SELECT": 0.09,
+      "BAYESIAN_REASONING": 0.019600000000000003,
+      "ANTI_BIAS": 0.0324,
+      "TIPPING": 0.0121,
+      "SIMULATED_DIALOGUE": 0.2025,
+      "BACKWARD_REASONING": 0.0625,
+      "METACULUS_BINARY": 0.0121
+    },
+    "ensemble_forecast": 0.19333333333333333,
+    "ensemble_brier": 0.037377777777777774
+  },
+  {
+    "question_id": 37597,
+    "title": "Will Donald Trump attend the NATO Summit in June 2025?",
+    "resolution": "yes",
+    "ground_truth": 1,
+    "individual_forecasts": {
+      "FERMI_METHOD": 0.35,
+      "NAIVE_DIALECTIC": 0.41,
+      "PROPOSE_EVALUATE_SELECT": 0.3,
+      "BAYESIAN_REASONING": 0.37,
+      "ANTI_BIAS": 0.37,
+      "TIPPING": 0.35,
+      "SIMULATED_DIALOGUE": 0.3,
+      "BACKWARD_REASONING": 0.27,
+      "METACULUS_BINARY": 0.34
+    },
+    "individual_brier_scores": {
+      "FERMI_METHOD": 0.42250000000000004,
+      "NAIVE_DIALECTIC": 0.3481000000000001,
+      "PROPOSE_EVALUATE_SELECT": 0.48999999999999994,
+      "BAYESIAN_REASONING": 0.39690000000000003,
+      "ANTI_BIAS": 0.39690000000000003,
+      "TIPPING": 0.42250000000000004,
+      "SIMULATED_DIALOGUE": 0.48999999999999994,
+      "BACKWARD_REASONING": 0.5328999999999999,
+      "METACULUS_BINARY": 0.4355999999999999
+    },
+    "ensemble_forecast": 0.33999999999999997,
+    "ensemble_brier": 0.43560000000000004
+  },
+  {
+    "question_id": 37595,
+    "title": "Will the Northeast Japan region (Tohoku) show a month-over-month increase in April 2025?",
+    "resolution": "no",
+    "ground_truth": 0,
+    "individual_forecasts": {
+      "FERMI_METHOD": 0.53,
+      "NAIVE_DIALECTIC": 0.45,
+      "PROPOSE_EVALUATE_SELECT": 0.45,
+      "BAYESIAN_REASONING": 0.28,
+      "ANTI_BIAS": 0.43,
+      "TIPPING": 0.38,
+      "SIMULATED_DIALOGUE": 0.38,
+      "BACKWARD_REASONING": 0.58,
+      "METACULUS_BINARY": 0.45
+    },
+    "individual_brier_scores": {
+      "FERMI_METHOD": 0.28090000000000004,
+      "NAIVE_DIALECTIC": 0.2025,
+      "PROPOSE_EVALUATE_SELECT": 0.2025,
+      "BAYESIAN_REASONING": 0.07840000000000001,
+      "ANTI_BIAS": 0.18489999999999998,
+      "TIPPING": 0.1444,
+      "SIMULATED_DIALOGUE": 0.1444,
+      "BACKWARD_REASONING": 0.3364,
+      "METACULUS_BINARY": 0.2025
+    },
+    "ensemble_forecast": 0.4366666666666667,
+    "ensemble_brier": 0.1906777777777778
+  },
+  {
+    "question_id": 37585,
+    "title": "Will Jerrauld \"Jay\" Jones win the Democratic primary for attorney general of Virginia in the 2025 election?",
+    "resolution": "yes",
+    "ground_truth": 1,
+    "individual_forecasts": {
+      "FERMI_METHOD": 0.54,
+      "NAIVE_DIALECTIC": 0.4,
+      "PROPOSE_EVALUATE_SELECT": 0.32,
+      "BAYESIAN_REASONING": 0.38,
+      "ANTI_BIAS": 0.32,
+      "TIPPING": 0.48,
+      "SIMULATED_DIALOGUE": 0.3,
+      "BACKWARD_REASONING": 0.35,
+      "METACULUS_BINARY": 0.3
+    },
+    "individual_brier_scores": {
+      "FERMI_METHOD": 0.21159999999999995,
+      "NAIVE_DIALECTIC": 0.36,
+      "PROPOSE_EVALUATE_SELECT": 0.4623999999999999,
+      "BAYESIAN_REASONING": 0.3844,
+      "ANTI_BIAS": 0.4623999999999999,
+      "TIPPING": 0.27040000000000003,
+      "SIMULATED_DIALOGUE": 0.48999999999999994,
+      "BACKWARD_REASONING": 0.42250000000000004,
+      "METACULUS_BINARY": 0.48999999999999994
+    },
+    "ensemble_forecast": 0.37666666666666665,
+    "ensemble_brier": 0.3885444444444444
+  },
+  {
+    "question_id": 37588,
+    "title": "Will India's PM Narendra Modi attend the G7 Summit in June 2025?",
+    "resolution": "yes",
+    "ground_truth": 1,
+    "individual_forecasts": {
+      "FERMI_METHOD": 0.3,
+      "NAIVE_DIALECTIC": 0.48,
+      "PROPOSE_EVALUATE_SELECT": 0.22,
+      "BAYESIAN_REASONING": 0.21,
+      "ANTI_BIAS": 0.25,
+      "TIPPING": 0.45,
+      "SIMULATED_DIALOGUE": 0.48,
+      "BACKWARD_REASONING": 0.4,
+      "METACULUS_BINARY": 0.35
+    },
+    "individual_brier_scores": {
+      "FERMI_METHOD": 0.48999999999999994,
+      "NAIVE_DIALECTIC": 0.27040000000000003,
+      "PROPOSE_EVALUATE_SELECT": 0.6084,
+      "BAYESIAN_REASONING": 0.6241000000000001,
+      "ANTI_BIAS": 0.5625,
+      "TIPPING": 0.30250000000000005,
+      "SIMULATED_DIALOGUE": 0.27040000000000003,
+      "BACKWARD_REASONING": 0.36,
+      "METACULUS_BINARY": 0.42250000000000004
+    },
+    "ensemble_forecast": 0.3488888888888889,
+    "ensemble_brier": 0.42394567901234564
+  },
+  {
+    "question_id": 37586,
+    "title": "Will Volodymyr Zelenskyy attend the G7 Summit in June 2025?",
+    "resolution": "yes",
+    "ground_truth": 1,
+    "individual_forecasts": {
+      "FERMI_METHOD": 0.42,
+      "NAIVE_DIALECTIC": 0.65,
+      "PROPOSE_EVALUATE_SELECT": 0.55,
+      "BAYESIAN_REASONING": 0.5,
+      "ANTI_BIAS": 0.63,
+      "TIPPING": 0.62,
+      "SIMULATED_DIALOGUE": 0.55,
+      "BACKWARD_REASONING": 0.7,
+      "METACULUS_BINARY": 0.65
+    },
+    "individual_brier_scores": {
+      "FERMI_METHOD": 0.3364000000000001,
+      "NAIVE_DIALECTIC": 0.12249999999999998,
+      "PROPOSE_EVALUATE_SELECT": 0.20249999999999996,
+      "BAYESIAN_REASONING": 0.25,
+      "ANTI_BIAS": 0.1369,
+      "TIPPING": 0.1444,
+      "SIMULATED_DIALOGUE": 0.20249999999999996,
+      "BACKWARD_REASONING": 0.09000000000000002,
+      "METACULUS_BINARY": 0.12249999999999998
+    },
+    "ensemble_forecast": 0.5855555555555556,
+    "ensemble_brier": 0.17176419753086417
+  },
+  {
+    "question_id": 37587,
+    "title": "Will Donald Trump attend the G7 Summit in June 2025?",
+    "resolution": "yes",
+    "ground_truth": 1,
+    "individual_forecasts": {
+      "FERMI_METHOD": 0.35,
+      "NAIVE_DIALECTIC": 0.4,
+      "PROPOSE_EVALUATE_SELECT": 0.52,
+      "BAYESIAN_REASONING": 0.88,
+      "ANTI_BIAS": 0.34,
+      "TIPPING": 0.42,
+      "SIMULATED_DIALOGUE": 0.37,
+      "BACKWARD_REASONING": 0.32,
+      "METACULUS_BINARY": 0.38
+    },
+    "individual_brier_scores": {
+      "FERMI_METHOD": 0.42250000000000004,
+      "NAIVE_DIALECTIC": 0.36,
+      "PROPOSE_EVALUATE_SELECT": 0.2304,
+      "BAYESIAN_REASONING": 0.0144,
+      "ANTI_BIAS": 0.4355999999999999,
+      "TIPPING": 0.3364000000000001,
+      "SIMULATED_DIALOGUE": 0.39690000000000003,
+      "BACKWARD_REASONING": 0.4623999999999999,
+      "METACULUS_BINARY": 0.3844
+    },
+    "ensemble_forecast": 0.4422222222222222,
+    "ensemble_brier": 0.3111160493827161
+  },
+  {
+    "question_id": 37576,
+    "title": "Will monthly US Industrial production have positive year-over-year growth for May 2025?",
+    "resolution": "yes",
+    "ground_truth": 1,
+    "individual_forecasts": {
+      "FERMI_METHOD": 0.75,
+      "NAIVE_DIALECTIC": 0.65,
+      "PROPOSE_EVALUATE_SELECT": 0.65,
+      "BAYESIAN_REASONING": 0.8,
+      "ANTI_BIAS": 0.77,
+      "TIPPING": 0.75,
+      "SIMULATED_DIALOGUE": 0.63,
+      "BACKWARD_REASONING": 0.6,
+      "METACULUS_BINARY": 0.78
+    },
+    "individual_brier_scores": {
+      "FERMI_METHOD": 0.0625,
+      "NAIVE_DIALECTIC": 0.12249999999999998,
+      "PROPOSE_EVALUATE_SELECT": 0.12249999999999998,
+      "BAYESIAN_REASONING": 0.03999999999999998,
+      "ANTI_BIAS": 0.05289999999999999,
+      "TIPPING": 0.0625,
+      "SIMULATED_DIALOGUE": 0.1369,
+      "BACKWARD_REASONING": 0.16000000000000003,
+      "METACULUS_BINARY": 0.04839999999999999
+    },
+    "ensemble_forecast": 0.7088888888888889,
+    "ensemble_brier": 0.08474567901234567
+  },
+  {
+    "question_id": 37574,
+    "title": "Will NOAA report that May 2025 is the hottest May on record?",
+    "resolution": "no",
+    "ground_truth": 0,
+    "individual_forecasts": {
+      "FERMI_METHOD": 0.3,
+      "NAIVE_DIALECTIC": 0.4,
+      "PROPOSE_EVALUATE_SELECT": 0.2,
+      "BAYESIAN_REASONING": 0.12,
+      "ANTI_BIAS": 0.21,
+      "TIPPING": 0.28,
+      "SIMULATED_DIALOGUE": 0.27,
+      "BACKWARD_REASONING": 0.3,
+      "METACULUS_BINARY": 0.15
+    },
+    "individual_brier_scores": {
+      "FERMI_METHOD": 0.09,
+      "NAIVE_DIALECTIC": 0.16000000000000003,
+      "PROPOSE_EVALUATE_SELECT": 0.04000000000000001,
+      "BAYESIAN_REASONING": 0.0144,
+      "ANTI_BIAS": 0.04409999999999999,
+      "TIPPING": 0.07840000000000001,
+      "SIMULATED_DIALOGUE": 0.0729,
+      "BACKWARD_REASONING": 0.09,
+      "METACULUS_BINARY": 0.0225
+    },
+    "ensemble_forecast": 0.24777777777777776,
+    "ensemble_brier": 0.06139382716049382
+  },
+  {
+    "question_id": 36831,
+    "title": "Will the number of new single family homes for sale in the US exceed 550 thousand in May 2025?",
+    "resolution": "no",
+    "ground_truth": 0,
+    "individual_forecasts": {
+      "FERMI_METHOD": 0.65,
+      "NAIVE_DIALECTIC": 0.4,
+      "PROPOSE_EVALUATE_SELECT": 0.45,
+      "BAYESIAN_REASONING": 0.23,
+      "ANTI_BIAS": 0.23,
+      "TIPPING": 0.3,
+      "SIMULATED_DIALOGUE": 0.42,
+      "BACKWARD_REASONING": 0.4,
+      "METACULUS_BINARY": 0.3
+    },
+    "individual_brier_scores": {
+      "FERMI_METHOD": 0.42250000000000004,
+      "NAIVE_DIALECTIC": 0.16000000000000003,
+      "PROPOSE_EVALUATE_SELECT": 0.2025,
+      "BAYESIAN_REASONING": 0.0529,
+      "ANTI_BIAS": 0.0529,
+      "TIPPING": 0.09,
+      "SIMULATED_DIALOGUE": 0.17639999999999997,
+      "BACKWARD_REASONING": 0.16000000000000003,
+      "METACULUS_BINARY": 0.09
+    },
+    "ensemble_forecast": 0.37555555555555553,
+    "ensemble_brier": 0.14104197530864196
+  },
+  {
+    "question_id": 37403,
+    "title": "Will any of these candidates be disqualified from running in the 2025 Ivorian presidential election before July 1, 2025?",
+    "resolution": "yes",
+    "ground_truth": 1,
+    "individual_forecasts": {
+      "FERMI_METHOD": 0.6,
+      "NAIVE_DIALECTIC": 0.6,
+      "PROPOSE_EVALUATE_SELECT": 0.75,
+      "BAYESIAN_REASONING": 0.68,
+      "ANTI_BIAS": 0.77,
+      "TIPPING": 0.7,
+      "SIMULATED_DIALOGUE": 0.7,
+      "BACKWARD_REASONING": 0.7,
+      "METACULUS_BINARY": 0.65
+    },
+    "individual_brier_scores": {
+      "FERMI_METHOD": 0.16000000000000003,
+      "NAIVE_DIALECTIC": 0.16000000000000003,
+      "PROPOSE_EVALUATE_SELECT": 0.0625,
+      "BAYESIAN_REASONING": 0.10239999999999996,
+      "ANTI_BIAS": 0.05289999999999999,
+      "TIPPING": 0.09000000000000002,
+      "SIMULATED_DIALOGUE": 0.09000000000000002,
+      "BACKWARD_REASONING": 0.09000000000000002,
+      "METACULUS_BINARY": 0.12249999999999998
+    },
+    "ensemble_forecast": 0.6833333333333333,
+    "ensemble_brier": 0.10027777777777777
+  },
+  {
+    "question_id": 37364,
+    "title": "Will the word \"tariff\" disappear from the front pages of The New York Times and Wall Street Journal before July 2025?",
+    "resolution": "yes",
+    "ground_truth": 1,
+    "individual_forecasts": {
+      "FERMI_METHOD": 0.97,
+      "NAIVE_DIALECTIC": 0.88,
+      "PROPOSE_EVALUATE_SELECT": 0.48,
+      "BAYESIAN_REASONING": 0.77,
+      "ANTI_BIAS": 0.67,
+      "TIPPING": 0.92,
+      "SIMULATED_DIALOGUE": 0.88,
+      "BACKWARD_REASONING": 0.35,
+      "METACULUS_BINARY": 0.96
+    },
+    "individual_brier_scores": {
+      "FERMI_METHOD": 0.0009000000000000016,
+      "NAIVE_DIALECTIC": 0.0144,
+      "PROPOSE_EVALUATE_SELECT": 0.27040000000000003,
+      "BAYESIAN_REASONING": 0.05289999999999999,
+      "ANTI_BIAS": 0.10889999999999997,
+      "TIPPING": 0.006399999999999993,
+      "SIMULATED_DIALOGUE": 0.0144,
+      "BACKWARD_REASONING": 0.42250000000000004,
+      "METACULUS_BINARY": 0.001600000000000003
+    },
+    "ensemble_forecast": 0.7644444444444445,
+    "ensemble_brier": 0.0554864197530864
+  },
+  {
+    "question_id": 37372,
+    "title": "Will Sam Altman and Elon Musk be on the stage together at YC AI Startup School?",
+    "resolution": "no",
+    "ground_truth": 0,
+    "individual_forecasts": {
+      "FERMI_METHOD": 0.1,
+      "NAIVE_DIALECTIC": 0.25,
+      "PROPOSE_EVALUATE_SELECT": 0.2,
+      "BAYESIAN_REASONING": 0.01,
+      "ANTI_BIAS": 0.1,
+      "TIPPING": 0.09,
+      "SIMULATED_DIALOGUE": 0.12,
+      "BACKWARD_REASONING": 0.38,
+      "METACULUS_BINARY": 0.1
+    },
+    "individual_brier_scores": {
+      "FERMI_METHOD": 0.010000000000000002,
+      "NAIVE_DIALECTIC": 0.0625,
+      "PROPOSE_EVALUATE_SELECT": 0.04000000000000001,
+      "BAYESIAN_REASONING": 0.0001,
+      "ANTI_BIAS": 0.010000000000000002,
+      "TIPPING": 0.0081,
+      "SIMULATED_DIALOGUE": 0.0144,
+      "BACKWARD_REASONING": 0.1444,
+      "METACULUS_BINARY": 0.010000000000000002
+    },
+    "ensemble_forecast": 0.15000000000000002,
+    "ensemble_brier": 0.022500000000000006
+  },
+  {
+    "question_id": 37377,
+    "title": "Will Aaron Rouse win the Democratic primary for lieutenant governor of Virginia in June 2025?",
+    "resolution": "no",
+    "ground_truth": 0,
+    "individual_forecasts": {
+      "FERMI_METHOD": 0.25,
+      "NAIVE_DIALECTIC": 0.38,
+      "PROPOSE_EVALUATE_SELECT": 0.33,
+      "BAYESIAN_REASONING": 0.3,
+      "ANTI_BIAS": 0.22,
+      "TIPPING": 0.32,
+      "SIMULATED_DIALOGUE": 0.25,
+      "BACKWARD_REASONING": 0.4,
+      "METACULUS_BINARY": 0.38
+    },
+    "individual_brier_scores": {
+      "FERMI_METHOD": 0.0625,
+      "NAIVE_DIALECTIC": 0.1444,
+      "PROPOSE_EVALUATE_SELECT": 0.10890000000000001,
+      "BAYESIAN_REASONING": 0.09,
+      "ANTI_BIAS": 0.0484,
+      "TIPPING": 0.1024,
+      "SIMULATED_DIALOGUE": 0.0625,
+      "BACKWARD_REASONING": 0.16000000000000003,
+      "METACULUS_BINARY": 0.1444
+    },
+    "ensemble_forecast": 0.31444444444444447,
+    "ensemble_brier": 0.09887530864197533
+  },
+  {
+    "question_id": 37373,
+    "title": "Will a woman win the 2025 James Beard Award for Outstanding Chef?",
+    "resolution": "no",
+    "ground_truth": 0,
+    "individual_forecasts": {
+      "FERMI_METHOD": 0.58,
+      "NAIVE_DIALECTIC": 0.45,
+      "PROPOSE_EVALUATE_SELECT": 0.55,
+      "BAYESIAN_REASONING": 0.38,
+      "ANTI_BIAS": 0.36,
+      "TIPPING": 0.43,
+      "SIMULATED_DIALOGUE": 0.43,
+      "BACKWARD_REASONING": 0.55,
+      "METACULUS_BINARY": 0.4
+    },
+    "individual_brier_scores": {
+      "FERMI_METHOD": 0.3364,
+      "NAIVE_DIALECTIC": 0.2025,
+      "PROPOSE_EVALUATE_SELECT": 0.30250000000000005,
+      "BAYESIAN_REASONING": 0.1444,
+      "ANTI_BIAS": 0.1296,
+      "TIPPING": 0.18489999999999998,
+      "SIMULATED_DIALOGUE": 0.18489999999999998,
+      "BACKWARD_REASONING": 0.30250000000000005,
+      "METACULUS_BINARY": 0.16000000000000003
+    },
+    "ensemble_forecast": 0.4588888888888889,
+    "ensemble_brier": 0.21057901234567902
+  },
+  {
+    "question_id": 37371,
+    "title": "Will Amani Golugwa be released from custody before June 15, 2025?",
+    "resolution": "no",
+    "ground_truth": 0,
+    "individual_forecasts": {
+      "FERMI_METHOD": 0.8,
+      "NAIVE_DIALECTIC": 0.6,
+      "PROPOSE_EVALUATE_SELECT": 0.3,
+      "BAYESIAN_REASONING": 0.55,
+      "ANTI_BIAS": 0.52,
+      "TIPPING": 0.45,
+      "SIMULATED_DIALOGUE": 0.45,
+      "BACKWARD_REASONING": 0.7,
+      "METACULUS_BINARY": 0.25
+    },
+    "individual_brier_scores": {
+      "FERMI_METHOD": 0.6400000000000001,
+      "NAIVE_DIALECTIC": 0.36,
+      "PROPOSE_EVALUATE_SELECT": 0.09,
+      "BAYESIAN_REASONING": 0.30250000000000005,
+      "ANTI_BIAS": 0.27040000000000003,
+      "TIPPING": 0.2025,
+      "SIMULATED_DIALOGUE": 0.2025,
+      "BACKWARD_REASONING": 0.48999999999999994,
+      "METACULUS_BINARY": 0.0625
+    },
+    "ensemble_forecast": 0.5133333333333333,
+    "ensemble_brier": 0.2635111111111111
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "question_id": 28650,
+    "title": "Will the US Steel/Nippon Steel merger collapse before January 1, 2025?",
+    "resolution": "no",
+    "ground_truth": 0,
+    "individual_forecasts": {
+      "METACULUS_BINARY": 0.35
+    },
+    "individual_brier_scores": {
+      "METACULUS_BINARY": 0.12249999999999998
+    },
+    "ensemble_forecast": 0.35,
+    "ensemble_brier": 0.12249999999999998
+  },
+  {
+    "question_id": 28801,
+    "title": "Will Eric Adams be Mayor of New York City on the 1st of January 2025?",
+    "resolution": "yes",
+    "ground_truth": 1,
+    "individual_forecasts": {
+      "METACULUS_BINARY": 0.65
+    },
+    "individual_brier_scores": {
+      "METACULUS_BINARY": 0.12249999999999998
+    },
+    "ensemble_forecast": 0.65,
+    "ensemble_brier": 0.12249999999999998
+  },
+  {
+    "question_id": 29742,
+    "title": "Will North Korea deploy military personnel to Ukraine before January 1, 2025?",
+    "resolution": "no",
+    "ground_truth": 0,
+    "individual_forecasts": {
+      "METACULUS_BINARY": 0.32
+    },
+    "individual_brier_scores": {
+      "METACULUS_BINARY": 0.1024
+    },
+    "ensemble_forecast": 0.32,
+    "ensemble_brier": 0.1024
+  },
+  {
+    "question_id": 30654,
+    "title": "Will Blue Origin launch its New Glenn rocket before January 1, 2025?",
+    "resolution": "no",
+    "ground_truth": 0,
+    "individual_forecasts": {
+      "METACULUS_BINARY": 0.12
+    },
+    "individual_brier_scores": {
+      "METACULUS_BINARY": 0.0144
+    },
+    "ensemble_forecast": 0.12,
+    "ensemble_brier": 0.0144
+  },
+  {
+    "question_id": 28657,
+    "title": "Will China officially announce export restrictions on any additional metals before January 1, 2025?",
+    "resolution": "yes",
+    "ground_truth": 1,
+    "individual_forecasts": {
+      "METACULUS_BINARY": 0.35
+    },
+    "individual_brier_scores": {
+      "METACULUS_BINARY": 0.42250000000000004
+    },
+    "ensemble_forecast": 0.35,
+    "ensemble_brier": 0.42250000000000004
+  },
+  {
+    "question_id": 28658,
+    "title": "Will the Russian government officially ban YouTube before January 1, 2025?",
+    "resolution": "no",
+    "ground_truth": 0,
+    "individual_forecasts": {
+      "METACULUS_BINARY": 0.25
+    },
+    "individual_brier_scores": {
+      "METACULUS_BINARY": 0.0625
+    },
+    "ensemble_forecast": 0.25,
+    "ensemble_brier": 0.0625
+  },
+  {
+    "question_id": 28704,
+    "title": "Will BirdCast report 1 billion birds flying over the United States at any point before January 1, 2025?",
+    "resolution": "no",
+    "ground_truth": 0,
+    "individual_forecasts": {
+      "METACULUS_BINARY": 0.28
+    },
+    "individual_brier_scores": {
+      "METACULUS_BINARY": 0.07840000000000001
+    },
+    "ensemble_forecast": 0.28,
+    "ensemble_brier": 0.07840000000000001
+  }
+]
